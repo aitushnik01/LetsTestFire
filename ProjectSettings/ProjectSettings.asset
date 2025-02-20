@@ -821,7 +821,7 @@ PlayerSettings:
   webWasm2023: 0
   scriptingDefineSymbols:
     Android: ISDK_OPENXR_HAND
-    Standalone: ISDK_OPENXR_HAND
+    Standalone: ISDK_OPENXR_HAND;DREAMTECK_SPLINES
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend:
